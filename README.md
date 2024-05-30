@@ -3,10 +3,6 @@
 - 📚 Estudando desenvolvimento web.
 - 🧙‍♂️ Desejo me tronar um desenvolverdor Full-stack.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusferx&show_icons=false&bg_color=00000000)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferx&layout=compact&bg_color=00000000)
--->
 ## Tecnologias que eu utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,5 +19,15 @@
 ##
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.ferx/?next=%2F)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-55b341277/)
 [![Imail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfernandes1028@gmail.com)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusferx&show_icons=false&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferx&layout=compact&bg_color=00000000)
+-->
+
+<!--
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fernandes-55b341277/)
+-->
+
