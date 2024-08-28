@@ -1,5 +1,5 @@
 ## 🖐🏼 Olá! eu sou o Mathes Fernandes 
-- 👩‍💻 Desejo trabalhar com Front-end.
+- 👩‍💻 Desejo trabalhar como Dev Full Stack.
 - 📚 Estudando desenvolvimento web.
 - 🧙‍♂️ Desejo me tronar um desenvolverdor Full-stack.
 
