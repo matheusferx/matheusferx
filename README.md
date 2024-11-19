@@ -1,7 +1,6 @@
-## 🖐🏼 Olá! eu sou o Mathes Fernandes 
-- 👩‍💻 Desejo trabalhar como Dev Full Stack.
-- 📚 Estudando desenvolvimento web.
-- 🧙‍♂️ Desejo me tronar um desenvolverdor Full-stack.
+## 🖐🏼 Olá! eu sou o Matheus Fernandes 
+- 📚 Atualmente estudando Data Science.
+- 🧙‍♂️ Desejo me tornar um desenvolverdor Full-stack.
 
 ## Tecnologias que eu utilizo
 <div style="display: inline_block"><br>
